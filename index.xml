@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomalocaris</title>
+    <link>https://anomalocarisproject.github.io/</link>
+    <description>Recent content on Anomalocaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <managingEditor>anomalocarisproject@gmail.com (Anomalocaris)</managingEditor>
+    <webMaster>anomalocarisproject@gmail.com (Anomalocaris)</webMaster><atom:link href="https://anomalocarisproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👋 Introducción</title>
+      <link>https://anomalocarisproject.github.io/introduccion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>anomalocarisproject@gmail.com (Anomalocaris)</author>
+      <guid>https://anomalocarisproject.github.io/introduccion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👥 Participantes</title>
+      <link>https://anomalocarisproject.github.io/participantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>anomalocarisproject@gmail.com (Anomalocaris)</author>
+      <guid>https://anomalocarisproject.github.io/participantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👨‍💻 Software</title>
+      <link>https://anomalocarisproject.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>anomalocarisproject@gmail.com (Anomalocaris)</author>
+      <guid>https://anomalocarisproject.github.io/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👩‍🔬 Artículos Generados</title>
+      <link>https://anomalocarisproject.github.io/articulos_generados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>anomalocarisproject@gmail.com (Anomalocaris)</author>
+      <guid>https://anomalocarisproject.github.io/articulos_generados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📃 Lecturas Generales</title>
+      <link>https://anomalocarisproject.github.io/lecturas_generales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>anomalocarisproject@gmail.com (Anomalocaris)</author>
+      <guid>https://anomalocarisproject.github.io/lecturas_generales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
